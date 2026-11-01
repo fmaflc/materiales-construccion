@@ -1,0 +1,41 @@
+MATERIALES DE CONSTRUCCIÓN · VERSIÓN AMPLIADA
+48 materiales con imágenes incluidas.
+
+NETLIFY: descomprime y arrastra la carpeta que contiene index.html a la zona de despliegue manual.
+CLOUDFLARE PAGES: crea una carga directa de recursos y sube el ZIP o la carpeta según la opción del panel.
+Sin compilación ni dependencias. Mantén ejercicios.js y la carpeta img junto a index.html.
+
+Las imágenes nuevas son ilustraciones generadas con IA para reconocer materiales; no son fotografías ni identifican productos certificados. Las fichas describen usos generales: consulta las especificaciones del fabricante para cada aplicación.
+
+
+EJERCICIOS AUTOCORREGIBLES
+Se conservan los 48 materiales, sus imágenes, apartados, fuentes y logo originales.
+Se añaden 48 ejercicios, uno por material: 24 de reconocimiento por ilustración
+y 24 sobre composición, funciones, usos y diferencias entre materiales.
+El alumnado puede comprobar la respuesta, leer la explicación, pedir una
+pista, repasar la ficha relacionada y repetir. La portada da acceso a todas
+las actividades y cada ficha enlaza a su ejercicio.
+Las ilustraciones son didácticas: no certifican materiales ni su aptitud.
+La elección real depende de las especificaciones del producto y del sistema.
+
+PROGRESO
+Los materiales marcados y ejercicios superados se guardan en este navegador
+y dispositivo. No se envían respuestas. Borrar los datos del navegador elimina
+el progreso. En navegación privada puede ser temporal o no estar disponible.
+Las respuestas e intentos en curso duran mientras la página está abierta.
+Repetir no elimina un logro. Para borrar los logros, usa «Reiniciar el progreso
+de ejercicios» y confirma; se conservan los materiales marcados.
+
+PUBLICACIÓN
+Descomprime el ZIP y publica TODO su contenido: index.html, ejercicios.js,
+carpeta img, .nojekyll y LEEME.txt. index.html debe quedar en la raíz publicada.
+Compatible con GitHub Pages, Cloudflare Pages y Netlify, sin compilación.
+No requiere cuentas del alumnado ni base de datos. No incluye modo sin conexión
+instalable. Los enlaces a fuentes externas necesitan conexión.
+Los ejercicios son de repaso; no acreditan formación ni autorizan trabajos.
+Revisión: octubre de 2026.
+
+MARCA EN LAS IMÁGENES
+Se añade la marca original pequeña abajo a la izquierda en tarjetas, fichas
+y ejercicios mediante superposición en pantalla. Los 48 archivos originales
+de ilustraciones no se han modificado. La marca exacta está en img/marca.png.
